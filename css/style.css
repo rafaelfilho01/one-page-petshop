@@ -1,0 +1,103 @@
+#barra-menu{
+
+    /* background: #313157; */
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+
+
+/* fim menu */
+/* carroussel */
+
+
+div.carousel-caption h3{
+    font-size: 30pt;
+}
+
+div.carousel-caption p{
+    font-size: 12pt;
+}
+
+
+
+/* 4 nec. basica */
+.container {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.container #cont{
+    margin: 60px 0px;
+}
+
+.container #cont h2,h1{
+    margin-top: 30px;
+}
+
+.container, .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* user agent stylesheet */
+div {
+    display: block;
+}
+body, html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.53571rem;
+    overflow-x: hidden;
+}
+body {
+    margin: 0;
+    font-weight: 400;
+    color: #707070;
+    background-color: #fff;
+}
+body, caption {
+    text-align: left;
+}
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+}
+.slick-slider, html {
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* :fim 4 nesc. basica */
+
+div.row{
+    margin: 0px 5px;
+}
+
+/* mapa */
+#mapa{
+    border: 1px solid rgba(0, 0, 0, 0.164);
+    border-radius: 5px;
+    width: 280px;
+    margin: 0px 20px;
+    text-align: center;
+}
+
+#ende .row{
+    display: flex;
+    justify-content: center;
+}
